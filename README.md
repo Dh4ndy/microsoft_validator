@@ -43,16 +43,16 @@ run:
 
 ```sh
 # Basic usage
-./gmail.sh -i emails.txt -r results/
+./main.sh -i emails.txt -r results/
 
 # Dengan custom settings
-./gmail.sh -i emails.txt -r results/ -l 10 -t 2 -d
+./main.sh -i emails.txt -r results/ -l 10 -t 2 -d
 
 # Full options
-./gmail.sh -i emails.txt -r results/ -l 15 -t 1 -d
+./main.sh -i emails.txt -r results/ -l 15 -t 1 -d
 
 # With Auto-Delete
-./gmail.sh -i temp_emails.txt -r final_results/ -d
+./main.sh -i temp_emails.txt -r final_results/ -d
 ```
 
 ## Parameter Options
