@@ -1,4 +1,4 @@
-# GMAIL VALIDATOR
+# MICROSOFT VALIDATOR
 ## Installation the required tools
 
 Ubuntu/Debian:
